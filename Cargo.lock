@@ -1,0 +1,4 @@
+[root]
+name = "68k_disasm_gen"
+version = "0.1.0"
+
