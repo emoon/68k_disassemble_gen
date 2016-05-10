@@ -2,3 +2,6 @@
 name = "68k_disasm_gen"
 version = "0.1.0"
 authors = ["Daniel Collin <daniel@collin.com>"]
+
+[dependencies]
+rand = "0.3"
